@@ -1,1 +1,1 @@
-Create a script
+Delete the file betty
