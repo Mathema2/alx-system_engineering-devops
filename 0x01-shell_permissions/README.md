@@ -1,1 +1,1 @@
-Effective username
+Prints all groups
