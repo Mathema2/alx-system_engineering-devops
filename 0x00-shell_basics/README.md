@@ -1,1 +1,1 @@
-script that print the type of a file
+Script that prints the file type
